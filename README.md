@@ -6,10 +6,10 @@
 
 > Initializing AI Developer Environment...
 
-💻 STATUS: Building Innovative Web3 & AI Solutions
-🧠 FOCUS: Full-Stack | Blockchain | AI Integration
-🎯 MISSION: Create, Automate, and Decentralize
-🛰️ LOCATION: Mumbai, India
+#💻 STATUS: Building Innovative Web3 & AI Solutions
+#🧠 FOCUS: Full-Stack | Blockchain | AI Integration
+#🎯 MISSION: Create, Automate, and Decentralize
+#🛰️ LOCATION: Mumbai, India
 
 ---
 
@@ -79,9 +79,8 @@ Real-time chat with modern UI
 
 ## 🧠 **Achievements**
 - 🥇 Built & deployed **4+ decentralized apps** (NFTs, AI, Real-time chat)  
-- 💬 Developed AI mock interview app with **real-time speech feedback**  
-- 🧩 Contributed to multiple **open-source projects**  
-- 📈 Solved 400+ DSA problems (LeetCode, GFG)  
+- 💬 Developed AI mock interview app with **real-time speech feedback**   
+- 📈 Solved 300+ DSA problems (LeetCode, GFG)  
 - 🧠 Always exploring **AI × Web3 convergence**
 
 ---
@@ -102,7 +101,7 @@ Real-time chat with modern UI
 ---
 
 ## 🎮 **Fun Facts**
-- 🕹️ Hackathons = My adrenaline rush  
+- Footballllll!!!
 - 🎧 Music fuels my creativity  
 - ☕ Coffee + Code = Infinite productivity  
 - 💬 Always open to collaboration on cool ideas  
