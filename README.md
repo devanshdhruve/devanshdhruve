@@ -1,89 +1,140 @@
-# Hi there, I'm Devansh Dhruve 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&width=600&lines=👋+Hey%2C+I'm+Devansh+Dhruve;🚀+Full-Stack+%26+Blockchain+Developer;🤖+Building+AI-Powered+%26+Web3+Applications;💡+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-## 🚀 About Me
+---
 
-I'm a passionate developer focused on building innovative web applications, Blockchain technology and exploring AI-powered solutions. I love turning ideas into reality through code and continuously learning new technologies.
+# 👨‍🚀 Welcome to **DevanshOS v3.2.5**
 
-- 🔭 Currently working on **AI Mock Interview Platform** and **NFT Music Marketplace**
-- 🌱 Learning advanced **TypeScript**, **Web3**, and **AI/ML integration**
-- 💡 Interested in **Full-Stack Development**, **Blockchain**, and **AI Applications**
-- 🎯 2025 Goal: Contribute more to open-source projects and build impactful applications
+> Initializing AI Developer Environment...
 
-## 🛠️ Tech Stack
+💻 STATUS: Building Innovative Web3 & AI Solutions
+🧠 FOCUS: Full-Stack | Blockchain | AI Integration
+🎯 MISSION: Create, Automate, and Decentralize
+🛰️ LOCATION: Mumbai, India
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+## ⚙️ **System Overview**
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+🎓 **B.Tech (CSE - IoT & Cybersecurity with Blockchain)** @ Dwarkadas J. Sanghvi College of Engineering  
+💼 Passionate about developing scalable, secure, and intelligent applications  
+🌐 Exploring intersections of **AI, Blockchain, and Web Development**
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+---
 
-## 🌟 Featured Projects
+## 🛠️ **Tech Stack**
 
-### 🎤 [AI Mock Interview](https://ai-mock-interview-snowy-zeta.vercel.app/)
-An intelligent interview preparation platform powered by AI
-- 🤖 Real-time AI feedback and analysis
-- 📊 Performance tracking and insights
-- 💬 Natural language processing for question generation
-- **Tech**: TypeScript, React, AI APIs
+### 🧩 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💬 [MERN Chat App](https://mern-stack-chat-app-veag.onrender.com/)
-Real-time messaging application with modern UI
-- ⚡ Instant messaging with Socket.io
-- 👥 User authentication and profiles
-- 🎨 Responsive design
-- **Tech**: MongoDB, Express, React, Node.js, Socket.io
+### 🧠 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧩 Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Pinata](https://img.shields.io/badge/-Pinata-33CC99?style=for-the-badge&logo=ipfs&logoColor=white)
+
+---
+
+## 🌟 **Featured Projects**
+
+### 🤖 [AI Mock Interview Platform](https://ai-mock-interview-snowy-zeta.vercel.app/)
+An intelligent interview prep tool powered by AI  
+> 🧠 Real-time feedback • 📊 Performance tracking • 💬 NLP question generation  
+**Tech:** TypeScript, React, AI APIs
+
+---
 
 ### 🎵 [Music NFT Marketplace](https://music-nft-ipd.vercel.app/)
-Decentralized platform for music NFTs
-- 🔗 Blockchain integration
-- 🎶 Music tokenization
-- 💰 Smart contract functionality
-- **Tech**: JavaScript, Web3, Blockchain
+Decentralized platform for limited-edition music NFTs  
+> 🔗 Blockchain integration • 🎶 Music tokenization • 💰 Smart contracts  
+**Tech:** Solidity, JavaScript, Web3.js, IPFS, Next.js
+
+---
+
+### 💬 [MERN Chat App](https://mern-stack-chat-app-veag.onrender.com/)
+Real-time chat with modern UI  
+> ⚡ Instant messaging • 👥 Auth system • 🎨 Responsive design  
+**Tech:** MongoDB, Express, React, Node.js, Socket.io
+
+---
 
 ### 🌐 [Portfolio Website](https://portfolio-m5eq.vercel.app/)
-My personal portfolio showcasing projects and skills
-- 📱 Fully responsive design
-- ⚡ Optimized performance
-- 🎨 Modern UI/UX
-- **Tech**: TypeScript, React, Next.js
+> 🚀 Showcasing my work, projects, and achievements  
+**Tech:** TypeScript, React, Next.js, TailwindCSS
 
-## 📊 GitHub Stats
+---
 
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshdhruve&show_icons=true&theme=radical)
+## 🧠 **Achievements**
+- 🥇 Built & deployed **4+ decentralized apps** (NFTs, AI, Real-time chat)  
+- 💬 Developed AI mock interview app with **real-time speech feedback**  
+- 🧩 Contributed to multiple **open-source projects**  
+- 📈 Solved 400+ DSA problems (LeetCode, GFG)  
+- 🧠 Always exploring **AI × Web3 convergence**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshdhruve&layout=compact&theme=radical)
+---
 
-## 📊 My Stats
+## 📊 **Devansh’s GitHub Insights**
 
-![](https://github-readme-stats.vercel.app/api?username=devanshdhruve&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshdhruve&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshdhruve&layout=compact&theme=radical&hide_border=true)
 
-## 📫 Let's Connect
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshdhruve&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-dhruve-6a19aa214/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruvedevansh@gmail.com)
+---
 
-## 💭 Quote of the Day
+## 🧩 **System Modules**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-⭐️ From [devanshdhruve](https://github.com/devanshdhruve) | 💻 Always learning, always building
+## 🎮 **Fun Facts**
+- 🕹️ Hackathons = My adrenaline rush  
+- 🎧 Music fuels my creativity  
+- ☕ Coffee + Code = Infinite productivity  
+- 💬 Always open to collaboration on cool ideas  
+
+---
+
+## 💬 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-dhruve-6a19aa214/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-m5eq.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvedevansh@gmail.com)
+
+---
+
+## 🐍 **Contribution Snake**
+![snake gif](https://github.com/devanshdhruve/devanshdhruve/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💖 **Support**
+If you like my work, consider giving a ⭐ to my repositories!  
+It keeps me motivated to build more awesome projects 😄
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=devanshdhruve&label=Profile%20views&color=ff69b4&style=for-the-badge)
+
+---
+
+───────────────────────────────
+⚡ SYSTEM ONLINE | DevanshOS v3.2.5 ACTIVE ⚡
+───────────────────────────────
+
+
+⭐️ From [devanshdhruve](https://github.com/devanshdhruve) | 🧠 *Innovate. Build. Inspire.*
