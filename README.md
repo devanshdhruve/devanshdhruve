@@ -71,7 +71,7 @@ My personal portfolio showcasing projects and skills
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devanshdhruve&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devanshdhruve&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 Let's Connect
 
