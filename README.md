@@ -2,7 +2,7 @@
 
 ---
 
-# 👨‍🚀 Welcome to **DevanshOS v3.2.5**
+# 👨‍🚀 Welcome to **DevanshOS**
 
 > Initializing AI Developer Environment...
 
@@ -131,10 +131,5 @@ It keeps me motivated to build more awesome projects 😄
 ![Profile Views](https://komarev.com/ghpvc/?username=devanshdhruve&label=Profile%20views&color=ff69b4&style=for-the-badge)
 
 ---
-
-───────────────────────────────
-⚡ SYSTEM ONLINE | DevanshOS v3.2.5 ACTIVE ⚡
-───────────────────────────────
-
 
 ⭐️ From [devanshdhruve](https://github.com/devanshdhruve) | 🧠 *Innovate. Build. Inspire.*
