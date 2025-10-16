@@ -6,10 +6,10 @@
 
 > Initializing AI Developer Environment...
 
--💻 STATUS: Building Innovative Web3 & AI Solutions
--🧠 FOCUS: Full-Stack | Blockchain | AI Integration
--🎯 MISSION: Create, Automate, and Decentralize
--🛰️ LOCATION: Mumbai, India
+💻 **STATUS:** Building Innovative Web3 & AI Solutions  
+🧠 **FOCUS:** Full-Stack | Blockchain | AI Integration  
+🎯 **MISSION:** Create, Automate, and Decentralize  
+🛰️ **LOCATION:** Mumbai, India  
 
 ---
 
