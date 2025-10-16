@@ -69,8 +69,6 @@ My personal portfolio showcasing projects and skills
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshdhruve&layout=compact&theme=radical)
 
-## 🔥 Contribution Streak
-
 ## 📊 My Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=devanshdhruve&show_icons=true&theme=radical&hide_border=true&count_private=true)
