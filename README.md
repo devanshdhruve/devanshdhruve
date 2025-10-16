@@ -118,7 +118,7 @@ Real-time chat with modern UI
 ---
 
 ## 🐍 **Contribution Snake**
-![snake gif](https://github.com/devanshdhruve/devanshdhruve/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/devanshdhruve/devanshdhruve/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
